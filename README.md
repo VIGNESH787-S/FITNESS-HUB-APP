@@ -73,4 +73,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # FITNESS-HUB-APP
 # FITNESS-HUB-APP
 ![image](https://github.com/user-attachments/assets/eb6480aa-457c-402b-9e33-7596a5726199)
+![Screenshot 2025-03-07 093757](https://github.com/user-attachments/assets/58005a02-e24a-4a12-b54e-9264edbce61e)
+![Screenshot 2025-03-07 094138](https://github.com/user-attachments/assets/532d4d89-c732-4c89-bc08-fe81e85f8bdc)
+![Screenshot 2025-03-08 150432](https://github.com/user-attachments/assets/155cfde1-beee-42fb-9d1f-a1faa19ee683)
+![Screenshot 2025-03-08 150406](https://github.com/user-attachments/assets/8fc1ead8-d13a-43f4-bcfc-3e9ed99e5dc7)
+
+
+
+
+
 
