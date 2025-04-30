@@ -69,9 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # FITNESS-HUB-APP
-# FITNESS-HUB-APP
-# FITNESS-HUB-APP
-# FITNESS-HUB-APP
+SCREENSHOTS
 ![image](https://github.com/user-attachments/assets/eb6480aa-457c-402b-9e33-7596a5726199)
 ![Screenshot 2025-03-07 093757](https://github.com/user-attachments/assets/58005a02-e24a-4a12-b54e-9264edbce61e)
 ![Screenshot 2025-03-07 094138](https://github.com/user-attachments/assets/532d4d89-c732-4c89-bc08-fe81e85f8bdc)
